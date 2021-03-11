@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Discord francophone][discord-shield-fr]][discord-fr]
+[![Forum francophone][forum-shield-fr]][forum-fr]
+[![Awesome francophone][awesome-shield]][awesome-fr]
+
+
 <!--
 **LordBilbon/LordBilbon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
